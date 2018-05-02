@@ -1,0 +1,16 @@
+{
+    "host": "http://local.neoauto3.com",
+    "pages": [
+      {
+        "uri"      : "/",
+        "fileRoute": "app/modules/index.html"
+      },
+      {
+        "uri"      : "ficha.html",
+        "fileRoute": "app/modules/ficha.html"
+      }
+    ],
+    "dimensions": [
+      { "height": 970, "width" : 1200  }
+    ]
+  }

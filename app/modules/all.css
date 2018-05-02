@@ -1,0 +1,68 @@
+header {
+    background: red;
+    height: 200px;
+}
+footer {
+    background: green;
+    height: 300px;
+}
+nav {
+    display: flex;
+}
+hr {
+    width: 80%;
+}
+main {
+    display: flex;
+}
+
+nav ul li {
+    display: inline-block;
+}
+aside {
+    width: 400px;
+}
+
+.slider-top ul  {
+    width: 300px;
+    height: 250px;
+    position: relative;
+}
+
+.slider-top ul li { 
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    background: blue;
+}
+
+.slider-bottom ul  {
+    width: 100px;
+    height: 450px;
+    position: relative;
+}
+
+.slider-bottom ul li { 
+    position: absolute;
+    width: 200px;
+    height: 450px;
+    background: orchid;
+}
+
+section {
+    width: 800px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+} 
+
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
